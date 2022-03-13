@@ -22,7 +22,16 @@ A headless, framework-agnostic and extendable mindmap editor.
 ## Installation
 
 ```shell
-npm i remind-core remind-contributions
+Download the example folder in this repo. 
+Lin edited below: 
+more packages need to be added here.
+1. npm i remind-core remind-contributions. 
+2. npm install -D vitest
+3. npm i remind-core remind-contributions
+4. npm i vite 
+
+How to run the index.html file?  
+npm run dev
 ```
 
 ## Quick Start
